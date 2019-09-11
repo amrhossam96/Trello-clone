@@ -1,5 +1,5 @@
 # Trello-clone
-This is a clone for the webapp trello which is an online board management system that let's you create cards and lists to organize your tasks, the website is live here on this dummy link go check it out ----> https://confident-williams-637584.netlify.com
+This is a clone for the webapp trello which is an online board management system that let's you create cards and lists to organize your tasks, the website is live here on this dummy link go check it out  
 
 
 <!DOCTYPE html>
@@ -11,6 +11,7 @@ This is a clone for the webapp trello which is an online board management system
     
 </head>
 <body>
+    <h1>https://confident-williams-637584.netlify.com</h1>
   <h1>this is my webapp cloning trello</h1>
   <img width="100%" src="https://media.giphy.com/media/jqwoDmLiljewG3j3sZ/giphy.gif" alt="">
   <a href="https://ibb.co/kJDvChh"><img width="100%" src="https://i.ibb.co/YXdwstt/Capture.jpg" alt="Capture" border="0"></a>
